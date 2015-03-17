@@ -1,6 +1,6 @@
 
 
-|Github|昵称|系统|omooc.py|pythoncamp|gitbok|
+|Github|昵称|系统|omooc.py|pythoncamp|gitbook|
 |----|----|----|----|----|----|----|
 |LillianMin|安静|Ubuntu+Win|||||
 |ashlinglee|木子慧|Ubuntu|||||

@@ -5,7 +5,7 @@
 |LillianMin|安静|Ubuntu+Win|||||
 |ashlinglee|木子慧|Ubuntu|||||
 |StoneJiaJia|石子佳|OS X|||||
-|fengguang22|Issam|Ubuntu+Win 7+OS X|||||
+|fengguang22|Issam|Ubuntu+Win 7+OS X||[omooc.py](https://github.com/fengguang22/pythoncamp0)|[pythoncamp(https://github.com/fengguang22/pythoncamp0)]||
 |yangtzehina|yangtze||||||
 |umulily|祖利|Win 7|||||
 |phoebeyeah|Phoebe|Ubunu+Win 7双系统|||||

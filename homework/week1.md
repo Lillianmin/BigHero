@@ -7,6 +7,8 @@
 - [ ] MarkDown 学习
 - [ ] 开学大典心得。  
 - [x] 科学上网。
+- [ ] Say hello world
+- [ ] mailing-list学习
 
 #石子佳
 - [x] 注册网易云课堂，加入课程。
@@ -16,6 +18,8 @@
 - [ ] Markdown 学习。
 - [ ] 开学大典心得。
 - [x] 科学上网。
+- [ ] Say hello world
+- [ ] mailing-list学习
 
 #木子慧
 
@@ -27,6 +31,8 @@
 - [ ] Markdown 学习。
 - [ ] 开学大典心得。
 - [x] 科学上网。
+- [ ] Say hello world
+- [ ] mailing-list学习
 
 #yangtze
 

@@ -26,4 +26,4 @@
   * yangtze
   * 祖利
   * Phoebe
-* 请大家在自己的pythoncamp0下建立一个lgo.md文件，并在此添加自己的链接[log](https://github.com/Lillianmin/BigHero/blob/master/log.md)
+* 请大家在自己的pythoncamp0下建立一个lgo.md文件，并在此接[log](https://github.com/Lillianmin/BigHero/blob/master/log.md)添加自己的链

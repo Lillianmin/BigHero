@@ -7,7 +7,7 @@
 - [x] MarkDown 学习
 - [ ] 开学大典心得。  
 - [x] 科学上网。
-- [ ] Say hello world
+- [x] Say hello world
 - [ ] mailing-list学习
 
 #石子佳

@@ -8,4 +8,4 @@
 |fengguang22|Issam|Ubuntu+Win 7+OS X|[omooc.py](https://github.com/fengguang22/pythoncamp0)|[pythoncamp](https://github.com/fengguang22/pythoncamp0)|[gitbook](https://www.gitbook.com/book/fengguang22/learn-to-be-pythonic/details)||
 |yangtzehina|yangtze|UBUNTU　＋ WIN|[omooc.py](https://github.com/yangtzehina/omooc.py)|[pythoncamp](https://github.com/yangtzehina/pythoncamp0)|||
 |umulily|祖利|Win 7|[omooc.py](https://github.com/umulily/omooc.py)|[pythoncamp](https://github.com/umulily/pythoncamp0)|[gitbook](http://umulily.gitbooks.io/python/content/)||
-|phoebeyeah|Phoebe|Ubunu+Win 7双系统|[omooc.py](https://github.com/phoebeyeah/omooc.py)|[pythoncamp](https://github.com/phoebeyeah/pythoncamp0)|||
+|phoebeyeah|Phoebe|Ubunu+Win 7双系统|[omooc.py](https://github.com/phoebeyeah/omooc.py)|[pythoncamp](https://github.com/phoebeyeah/pythoncamp0)|[gitbook](http://phoebeyeah.gitbooks.io/my-python-learning-guidebook/content/)||

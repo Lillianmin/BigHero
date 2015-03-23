@@ -9,21 +9,16 @@
 * 成员进度更新
   每周建立一个进度跟踪表，组员在此更新自已的周进度。
   * [week1](https://github.com/Lillianmin/BigHero/blob/master/homework/week1.md)
+  * [week2](https://github.com/Lillianmin/BigHero/blob/master/homework/week2.md)
 * 小组wiki，issues
 * 小组讨论成果：励志的、技术的
 
 # 最新通知：
-* week1 作业添加了 
-  * hallo world!
-  * mailing-list
+* week2 作业已添加了[week2](https://github.com/Lillianmin/BigHero/blob/master/homework/week2.md)
 * 请以下伙伴前往 [成员信息](https://github.com/Lillianmin/BigHero/blob/master/GroupMember.md)完善信息。
   * 木子慧
   * yangtze
-  * 祖利
   * Phoebe
-* 请以下伙伴前往[week1](https://github.com/Lillianmin/BigHero/blob/master/homework/week1.md)更新作业进度。
-   * 木子慧
-  * yangtze
-  * 祖利
-  * Phoebe
-* 请大家在自己的pythoncamp0下建立一个lgo.md文件，并在此接[log](https://github.com/Lillianmin/BigHero/blob/master/log.md)添加自己的链
+* 请大家尽快完成week1作业，并前往[week1](https://github.com/Lillianmin/BigHero/blob/master/homework/week1.md)更新作业进度。
+* 请大家尽快在自己的pythoncamp0下建立一个lgo.md文件，并在此[log](https://github.com/Lillianmin/BigHero/blob/master/log.md)添加自己的链接。
+

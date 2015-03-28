@@ -44,6 +44,7 @@
 - [x] 科学上网。
 - [x] Say hello world
 - [ ] mailing-list学习
+
 #祖利
 - [x] 注册网易云课堂,加入课程。  
 - [x] Github创建mooc.py。  

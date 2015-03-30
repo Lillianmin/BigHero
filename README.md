@@ -22,7 +22,7 @@
 * 请大家尽快完成week2作业，并前往[week2](https://github.com/Lillianmin/BigHero/blob/master/homework/week2.md)更新作业进度。
 * 请大家尽快在自己的pythoncamp0下建立一个lgo.md文件，并在此[log](https://github.com/Lillianmin/BigHero/blob/master/log.md)添加自己的链接。
 
-截止3.30 21:09
+# 截止3.30 21:09 未完成情况
 * 据omooc.py仓库情况，未完成guesst the number的同学有。@木子慧 @Phoebe @yangtze  @祖利 
 
 * @Issam 代码仓库是omooc.py。你的代码提交到pythoncamp0中去啦
